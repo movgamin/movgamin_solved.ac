@@ -1,0 +1,1 @@
+# movgamin_solved.ac
